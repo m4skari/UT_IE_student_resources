@@ -38,8 +38,7 @@
 2.  فایل‌های مورد نظر خود را در Fork خود و در پوشه مربوط به درس اضافه کنید. (لطفاً ساختار پوشه‌ها را رعایت کنید)
 3.  یک **Pull Request (PR)** ارسال کرده و در توضیحات آن بنویسید که چه تغییراتی ایجاد کرده‌اید
 
----
-    ## Graduate Courses
+## Graduate Courses
 
 ### 1.  Nonlinear Programming - Dr. Masoud Rabbani
 * [**(2025, fall)**](https://github.com/M4skari/NonlinearProgramming) by Mohammad Askari
