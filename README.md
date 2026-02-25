@@ -45,7 +45,7 @@
 ### 2.  Multi Criteria Decision Making - Dr. s.Ali Torabi
 * [**(2025, fall)**](https://github.com/M4skari/MultiCriteriaDecisionmaking) by Mohammad Askari
 ### 3.  Data Driven Modeling & optimization - Dr. Narges MohammadZadeh
-* [**(2025, fall)**](https://github.com/M4skari/DataDrivenDecisionMaking) by Mohammad Askari
+* [**(2025, fall)**](https://github.com/M4skari/DataDrivenModelingandOptimization) by Mohammad Askari
 ### 4.  Combinational Optimization - Dr. M.mahdi Nasiri
 * [**(2025, fall)**](https://github.com/M4skari/CombinationalOptimiztion) by Mohammad Askari
 
