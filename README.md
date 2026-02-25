@@ -37,10 +37,10 @@
 
 
 <div align="center" style="border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; width: fit-content; margin: auto;">
-  <img src="https://img.shields.io/github/stars/m4skari/UT-IE-Student-Resources?style=social" alt="GitHub stars badge">
+  <img src="https://img.shields.io/github/stars/m4skari/UT_IE_student_resources?style=social" alt="GitHub stars badge">
   <h3>⭐ If you find this repository useful, please give it a star! ⭐</h3>
   <p>Click the star button at the top right corner of this page. Your support is greatly appreciated! 🙌</p>
-  <a href="https://github.com/m4skari/UT-IE-Student-Resources" style="text-decoration:none;">
+  <a href="https://github.com/m4skari/UT_IE_student_resources" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Give%20a%20Star-⭐-yellow" alt="Give a Star">
   </a>
 </div>
